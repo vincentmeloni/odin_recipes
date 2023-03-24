@@ -1,0 +1,17 @@
+* {
+    color: yellow;
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    height: 550px;
+    width: 500px;
+}
+
+body {
+    text-align: justify;
+}
